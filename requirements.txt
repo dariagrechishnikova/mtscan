@@ -2,4 +2,7 @@ numpy
 pandas
 streamlit
 matplotlib
-seaborn
+string
+re
+transformers==4.31.0
+torch===2.0.1
